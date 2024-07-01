@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: tanNimbus;
-    src: url(/docs/fonts/TAN-NIMBUS.otf);
+    src: url(/docs/fonts/TAN-NIMBUS.otf) format('opentype');
 }
 
 header {
