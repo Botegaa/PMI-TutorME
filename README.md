@@ -65,7 +65,7 @@ TutorMe
 🛬 url landpage: https://botegaa.github.io/PMI-TutorME/
 
 
-🤝 url Modelo Negócio (imagem):
+🤝 url Modelo Negócio (imagem): https://postimg.cc/vxWkxnn3
 
 
 🗓️ url Product Backlog:
