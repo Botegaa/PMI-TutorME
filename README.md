@@ -62,7 +62,7 @@ TutorMe
 🔗 url github: https://github.com/PMI-ADS24/PMI-1-TutorME
 
 
-🛬 url landpage:
+🛬 url landpage: https://botegaa.github.io/PMI-TutorME/
 
 
 🤝 url Modelo Negócio (imagem):
