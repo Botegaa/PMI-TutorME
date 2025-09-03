@@ -77,13 +77,13 @@ TutorMe
 ⌨️ url Protótipo (Figma): https://www.figma.com/design/szGfimncc3rNAj71qtFN8s/PMI2?node-id=0-1&t=0PPDiyyOvY2N7eGI-1
 
 
-📝 url Modelagem Sistema: https://github.com/Botegaa/PMITutorME
+📝 url Modelagem Sistema: 
 
 
 -------------------
 💻 PMI III
 
-🖥️ Versão do Código no github:
+🖥️ Versão do Código no github: https://github.com/Botegaa/PMITutorME
 🎥 url vídeo demonstração (código):
 -------------------
 💻 PMI IV
