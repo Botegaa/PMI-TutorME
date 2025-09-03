@@ -80,14 +80,14 @@ TutorMe
 📝 url Modelagem Sistema: 
 
 
--------------------
 💻 PMI III
-
-🖥️ Versão do Código no github: https://github.com/Botegaa/PMITutorME
-🎥 url vídeo demonstração (código):
 -------------------
-💻 PMI IV
+🖥️ Versão do Código no github: https://github.com/Botegaa/PMITutorME
 
+🎥 url vídeo demonstração (código):
+
+💻 PMI IV
+-------------------
 🖥️ Versão do Código no github/heroku/servidor:
 🎞️ url vídeo demonstração (pitch ideia):
 🎥 url vídeo demonstração (aplicação rodando):
